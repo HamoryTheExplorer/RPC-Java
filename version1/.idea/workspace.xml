@@ -4,7 +4,86 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9965864c-cbac-4894-9fcb-93103359c7c9" name="Changes" comment="" />
+    <list default="true" id="9965864c-cbac-4894-9fcb-93103359c7c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/part1/Client/IOClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/part1/Client/IOClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/part1/Client/proxy/ClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/part1/Client/proxy/ClientProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/Client/IOClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/Client/IOClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/Client/TestClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/Client/TestClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/Client/proxy/ClientProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/Client/proxy/ClientProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/Server/TestServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/Server/TestServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/Server/provider/ServiceProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/Server/provider/ServiceProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/Server/server/RpcServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/Server/server/RpcServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/Server/server/impl/SimpleRPCRPCServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/Server/server/impl/SimpleRPCRPCServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/Server/server/impl/ThreadPoolRPCRPCServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/Server/server/impl/ThreadPoolRPCRPCServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/Server/server/work/WorkThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/Server/server/work/WorkThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/common/Message/RpcRequest$RpcRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/common/Message/RpcRequest$RpcRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/common/Message/RpcRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/common/Message/RpcRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/common/Message/RpcResponse$RpcResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/common/Message/RpcResponse$RpcResponseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/common/Message/RpcResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/common/Message/RpcResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/common/pojo/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/common/pojo/User$UserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/common/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/common/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/common/service/Impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/common/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part1/common/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part1/common/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Client/IOClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Client/IOClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Client/TestClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Client/TestClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Client/netty/handler/NettyClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Client/netty/handler/NettyClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Client/netty/nettyInitializer/NettyClientInitializer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Client/netty/nettyInitializer/NettyClientInitializer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Client/netty/nettyInitializer/NettyClientInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Client/netty/nettyInitializer/NettyClientInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Client/proxy/ClientProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Client/proxy/ClientProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Client/rpcClient/RpcClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Client/rpcClient/RpcClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Client/rpcClient/impl/NettyRpcClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Client/rpcClient/impl/NettyRpcClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Client/rpcClient/impl/SimpleSocketRpcCilent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Client/rpcClient/impl/SimpleSocketRpcCilent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Server/TestServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Server/TestServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Server/netty/handler/NettyRPCServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Server/netty/handler/NettyRPCServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Server/netty/nettyInitializer/NettyServerInitializer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Server/netty/nettyInitializer/NettyServerInitializer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Server/netty/nettyInitializer/NettyServerInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Server/netty/nettyInitializer/NettyServerInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Server/provider/ServiceProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Server/provider/ServiceProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Server/server/RpcServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Server/server/RpcServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Server/server/impl/NettyRPCRPCServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Server/server/impl/NettyRPCRPCServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Server/server/impl/SimpleRPCRPCServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Server/server/impl/SimpleRPCRPCServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Server/server/impl/ThreadPoolRPCRPCServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Server/server/impl/ThreadPoolRPCRPCServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/Server/server/work/WorkThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/Server/server/work/WorkThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/common/Message/RpcRequest$RpcRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/common/Message/RpcRequest$RpcRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/common/Message/RpcRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/common/Message/RpcRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/common/Message/RpcResponse$RpcResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/common/Message/RpcResponse$RpcResponseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/common/Message/RpcResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/common/Message/RpcResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/common/pojo/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/common/pojo/User$UserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/common/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/common/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/common/service/Impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/common/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part2/common/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part2/common/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Client/TestClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Client/TestClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Client/netty/handler/NettyClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Client/netty/handler/NettyClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Client/netty/nettyInitializer/NettyClientInitializer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Client/netty/nettyInitializer/NettyClientInitializer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Client/netty/nettyInitializer/NettyClientInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Client/netty/nettyInitializer/NettyClientInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Client/proxy/ClientProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Client/proxy/ClientProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Client/rpcClient/RpcClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Client/rpcClient/RpcClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Client/rpcClient/impl/NettyRpcClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Client/rpcClient/impl/NettyRpcClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Client/rpcClient/impl/SimpleSocketRpcCilent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Client/rpcClient/impl/SimpleSocketRpcCilent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Client/serviceCenter/ServiceCenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Client/serviceCenter/ServiceCenter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Client/serviceCenter/ZKServiceCenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Client/serviceCenter/ZKServiceCenter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Server/TestServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Server/TestServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Server/netty/handler/NettyRPCServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Server/netty/handler/NettyRPCServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Server/netty/nettyInitializer/NettyServerInitializer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Server/netty/nettyInitializer/NettyServerInitializer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Server/netty/nettyInitializer/NettyServerInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Server/netty/nettyInitializer/NettyServerInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Server/provider/ServiceProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Server/provider/ServiceProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Server/server/RpcServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Server/server/RpcServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Server/server/impl/NettyRPCRPCServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Server/server/impl/NettyRPCRPCServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Server/server/impl/SimpleRPCRPCServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Server/server/impl/SimpleRPCRPCServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Server/server/work/WorkThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Server/server/work/WorkThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Server/serviceRegister/ServiceRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Server/serviceRegister/ServiceRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/Server/serviceRegister/impl/ZKServiceRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/Server/serviceRegister/impl/ZKServiceRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/common/Message/RpcRequest$RpcRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/common/Message/RpcRequest$RpcRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/common/Message/RpcRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/common/Message/RpcRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/common/Message/RpcResponse$RpcResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/common/Message/RpcResponse$RpcResponseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/common/Message/RpcResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/common/Message/RpcResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/common/pojo/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/common/pojo/User$UserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/common/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/common/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/common/service/Impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/common/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/part3/common/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/part3/common/service/UserService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,26 +92,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2rZLqmF1kJPC1rsizHNhnfx35iF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/JAVA_coding/Rpc-New/RPC-Java/version1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/IdeaProjects/Github/RPC-Java/version1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
